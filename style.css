@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(4, 56, 4);
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Quantico', sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.body{
+    margin-bottom: 100%;
+    
+}
+.header{
+    height: 250px;
+    background-image: url(Beer.jpeg);
+}
